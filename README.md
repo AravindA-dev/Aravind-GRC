@@ -2,9 +2,9 @@
 
 ![GRC Consultant](https://img.shields.io/badge/GRC%20Consultant-blue)
 ![Cybersecurity Learner](https://img.shields.io/badge/Cybersecurity%20Learner-green)
-![ISO 27001](https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Implementer-blue)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Beginner-orange)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-In%20Progress-red)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001%3A2022-Lead%20Auditor-blue)
+<!--![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Beginner-orange)
+ ![TryHackMe](https://img.shields.io/badge/TryHackMe-In%20Progress-red) -->
 
 I'm currently working at **Whizzc** as a GRC Consultant. Passionate about building strong compliance programs and exploring offensive security on weekends.
 

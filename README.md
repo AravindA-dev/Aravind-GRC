@@ -15,8 +15,8 @@ I'm currently working at **Whizzc** as a **GRC Consultant**. Passionate about bu
 
 ### 📜 Certifications
 - 🎓 Google Cybersecurity Certificate (in progress - 80% completed)
-- ✅ ISO/IEC 27001:2022 — Lead Auditor (in progress - Complete by september)
-- ✅ Certified in Cybersecurity (in progress - Complete by september)
+- ✅ ISO/IEC 27001:2022 — Lead Auditor - Certified
+- ✅ Certified in Cybersecurity - Certified
 - ✅ ISO/IEC 27001:2022 — Lead Implementer (self-study)
 - ✅ ISO/IEC 42001:2023 — AI Management System (learning)
 - ✅ PCI DSS SAQ-D Familiarity (Whizzc internal training)

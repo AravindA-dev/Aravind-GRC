@@ -14,7 +14,7 @@ I'm currently working at **Whizzc** as a **GRC Consultant**. Passionate about bu
 - 💻 Linux | AWS | SIEM basics | Risk Management
 
 ### 📜 Certifications
-- 🎓 Google Cybersecurity Certificate (in progress - 80% completed)
+- 🎓 Google Cybersecurity Certificate - completed
 - ✅ ISO/IEC 27001:2022 — Lead Auditor - Certified
 - ✅ Certified in Cybersecurity - Certified
 - ✅ ISO/IEC 27001:2022 — Lead Implementer (self-study)

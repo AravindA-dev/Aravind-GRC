@@ -6,7 +6,7 @@
 <!--![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-Beginner-orange)
  ![TryHackMe](https://img.shields.io/badge/TryHackMe-In%20Progress-red) -->
 
-I'm currently working at **Whizzc** as a **GRC Consultant**. Passionate about building strong compliance programs and exploring offensive security on weekends.
+I'm currently working at **Whizzc** as a **Senior GRC Consultant**. Passionate about building strong compliance programs and exploring offensive security on weekends.
 
 ### 🧠 Learning Journey
 - 📘 ISO 27001, SOC 2, PCI DSS
@@ -18,12 +18,12 @@ I'm currently working at **Whizzc** as a **GRC Consultant**. Passionate about bu
 - ✅ ISO/IEC 27001:2022 — Lead Auditor - Certified
 - ✅ Certified in Cybersecurity - Certified
 - ✅ ISO/IEC 27001:2022 — Lead Implementer (self-study)
-- ✅ ISO/IEC 42001:2023 — AI Management System (learning)
+- ✅ ISO/IEC 42001:2023 — AI Management System (self-study)
 - ✅ PCI DSS SAQ-D Familiarity (Whizzc internal training)
 - ✅ SOC 2 Implementation & Evidence Mapping (Work Experience)
 - 🔐 Bug Bounty Beginner – TryHackMe Labs (ongoing)
 
-_💡 Planning to pursue: ISO 27001 Lead Auditor
+_💡 Planning to pursue: Certified Information Systems Auditor(CISA)
 
 ### 🔭 Projects to Explore
 - `iso27001-notes`
